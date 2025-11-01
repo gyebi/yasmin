@@ -6,10 +6,10 @@ const imgElement = document.getElementById('img');
 const btnElement = document.getElementById('actionButton');
 
 const img_sources = [
-    '/yasmin.jpg',
-    '/yasmine.jpg',
-    '/yas2.jpg',
-    '/yas3.jpg'
+    "./assets/yasmin.jpg",
+    "./assets/yasmine.jpg",
+    "./assets/yas2.jpg",
+    "./assets/yas3.jpg"
 
 ];
 
